@@ -1,4 +1,4 @@
-### salt/mwmodern/inhibit_adp_queues.sls
+#### salt/mwmodern/inhibit_adp_queues.sls
 
 {% import_yaml "mwmodern/mw_os_patching_vars.yml" as mw_data %}
 
